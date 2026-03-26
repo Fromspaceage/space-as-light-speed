@@ -1,6 +1,9 @@
 # Space as Light Speed: A Matter-Energy Field Framework
 
-**Every GPS satellite must adjust its atomic clocks daily. This is not just a relativistic effect; it is evidence that space itself moves at light speed.**
+**Author**: [HM]  
+*In collaboration with DeepSeek (AI language model)*
+
+Every GPS satellite must adjust its atomic clocks daily. This is not just a relativistic effect; it is evidence that space itself moves at light speed.
 
 ## The Core Idea
 
